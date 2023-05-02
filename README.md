@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HelenaEkman
+- 👋 Hi, I’m @Hagander
 - 👀 I’m interested in learning more about GitHub
-- 🌱 I’m currently learning how to be a CEO
-- 💞️ I’m looking to collaborate on ecom
+- 🌱 I’m currently learning
 - 📫 You can rach me via hyperisland.com
 
 <!---
